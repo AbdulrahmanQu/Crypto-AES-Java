@@ -96,7 +96,7 @@ java -cp bin cryptoaes.Client
 
 The client connects to the server, receives the RSA public key, and sends the AES key encrypted with RSA.
 
-![Running the Client and Server](images/Running_the_Client_and_Server.jpg)
+![Running the Client and Server](images/Running_the_Client_and_Server.png)
 
 ---
 
@@ -105,7 +105,7 @@ The client connects to the server, receives the RSA public key, and sends the AE
 User types the message `SEC6651` in the client GUI and clicks "Encrypt & Send".
 Client encrypts the message and sends ciphertext to server.
 
-![Encryption](images/Encryption.jpg)
+![Encryption](images/Encryption.png)
 
 ---
 
@@ -113,6 +113,6 @@ Client encrypts the message and sends ciphertext to server.
 
 Server clicks "Decrypt" to reveal the original message using AES key.
 
-![Decryption](images/Decryption.jpg)
+![Decryption](images/Decryption.png)
 
 ---

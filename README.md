@@ -15,13 +15,6 @@ It shows how **symmetric (AES)** and **asymmetric (RSA)** encryption can work to
 * Show the full cryptographic cycle: plaintext → ciphertext → decrypted plaintext.
 * Provide a GUI for easy verification of encryption and decryption.
 
----
-
-## Prerequisites
-
-* **Java Development Kit (JDK)** version 11 or higher.
-* A terminal or IDE (VS Code, IntelliJ, or Eclipse).
-* Basic understanding of Java and network sockets.
 
 ---
 
